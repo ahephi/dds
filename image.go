@@ -1,5 +1,5 @@
 // Package dds provides a decoder for the DirectDraw surface format, which is compatible with the image package.
-package godds
+package dds
 
 import (
 	"errors"
